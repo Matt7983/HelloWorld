@@ -7,6 +7,6 @@ Matt's first Repo on GitHub!
 
 Hope I'll learn fast, both on git and javascript. :)
 
-Matt.
+Matt Huang.
 
 2015/3/30 
